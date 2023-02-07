@@ -1,0 +1,43 @@
+/* .card-body {
+    background-color: #40d74045;
+} */
+.grocery{
+    display: flex;
+    flex-direction: row;
+  height: 400px;
+}
+.subsection{
+    min-height: 200px;
+    width: 700px;
+
+}
+.cardbody{
+    width: 400px;
+}
+button.Addgrobut {
+    padding-top: 43px;
+}
+#primary{
+    background: rgba(185, 185, 185, 0.48);
+    border-color: rgba(185, 185, 185, 0.48) !important;
+    border-radius: 30px;
+    color: black;
+}
+#secondary{
+    background: rgba(113, 216, 142, 0.65);
+border-radius: 50px;
+color: black;
+border-color: rgba(113, 216, 142, 0.65) !important;
+}
+#dropdown-basic-button{
+    background: rgba(185, 185, 185, 0.48);
+    border-color: rgba(185, 185, 185, 0.48) !important;
+    border-radius: 30px;
+    color: black;
+}
+#dropdown-basic-button primary{
+    background: rgba(185, 185, 185, 0.48);
+    border-color: rgba(185, 185, 185, 0.48) !important;
+    border-radius: 30px;
+    color: black;
+}

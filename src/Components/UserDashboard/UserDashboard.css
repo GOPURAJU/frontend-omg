@@ -1,0 +1,74 @@
+.ss{
+    /* position: absolute; */
+width: 590.19px;
+/* height: 76.27px; */
+left: 986.65px;
+top: 119.77px;
+
+background: #FAF8F8;
+border-radius: 48px;
+transform: rotate(179.64deg);
+}
+.red{
+    /* position: absolute; */
+width: 48px;
+height: 47px;
+left: 1026px;
+top: 64px;
+
+mix-blend-mode: color-dodge;
+}
+a.navbar-brand {
+    padding-right: 112px;
+}
+nav.navbar.navbar-expand-lg.navbar-light.bg-green {
+    background-color: #47af2cd9;
+    padding-bottom: 25px;
+}
+.reds{
+    /* position: absolute; */
+width: 48px;
+height: 47px;
+left: 1026px;
+top: 64px;
+
+mix-blend-mode: color-dodge;
+}
+img.red {
+    position: absolute;
+    width: 113px;
+    height: 87px;
+    left: 1282px;
+    top: 25px;
+    /* background: url(icons8-shopping-basket.png);
+    background-blend-mode: multiply; */
+}
+.icon{
+    position: absolute;
+    width: 113px;
+    height: 107px;
+    left: 1282px;
+    top: 25px;
+/*     
+    background: url(../Images/basket\ .png); */
+    background-blend-mode: multiply;
+}
+.card.rr {
+    /* position: absolute; */
+    width: 292px;
+    height: 308px;
+    left: 78px;
+    top: 36px;
+    background: #A0C0D2;
+
+}
+/* .SREE{ */
+    /* position: absolute; */
+    /* width: 223px;
+    height: 154px;
+    left: 654px;
+    top: 960px;
+    
+    background: #F0E687;
+    border-radius: 20px;
+} */

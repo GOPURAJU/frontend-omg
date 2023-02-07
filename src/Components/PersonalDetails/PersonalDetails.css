@@ -1,0 +1,60 @@
+p.first {
+    /* position: absolute; */
+    width: 432px;
+    /* height: 94px; */
+    left: 380px;
+    top: 380px;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    color: #000000;
+}
+p.online {
+    /* position: absolute; */
+    width: 656px;
+    height: 40px;
+    left: 435px;
+    top: 448px;
+    font-family: 'ABeeZee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 43px;
+    padding-top: 19px;
+    color: #545454;
+}
+p.number {
+    /* position: absolute; */
+    width: 518px;
+    height: 53px;
+    left: 435px;
+    top: 511px;
+    font-family: 'Abhaya Libre ExtraBold';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+}
+p.first {
+    /* position: absolute; */
+    width: 1025px;
+    height: 0px;
+    /* left: 357px; */
+    /* top: 336px; */
+    border: 1px solid #000000;
+    transform: rotate(-0.11deg);
+}
+p.raj{
+    box-sizing: border-box;
+
+/* position: absolute; */
+width: 523px;
+height: 258px;
+left: 387px;
+top: 442px;
+
+border: 0.5px solid #000000;
+}

@@ -1,0 +1,61 @@
+#footerimage{
+   float: right;
+}
+#easy{
+   position: absolute;
+   
+   
+
+   font-style: normal;
+   font-weight: 400;
+   font-size: 50px;
+   line-height: 68px;
+   letter-spacing: 0.035em;
+   
+   color: #000000;
+    
+}
+#select{
+   color: #FF4D00
+}
+
+span:hover {
+   color: #000000
+}
+#get{
+   margin-left: 20px;
+}
+#omgabbre{
+   font-weight:200;
+   font-size: 24px;
+   color:#603F8B
+}
+#deliverquote{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color: #19297C;
+  
+}
+#styling{
+   margin-left:-120px;
+}
+/* .text{
+   font-family: 'Alegreya Sans SC';
+font-style: normal;
+font-weight: 400;
+
+
+color: #000000;
+} */
+img {
+   vertical-align: middle; }
+
+p {
+   display:inline-block; }
+.online{
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color: #19297C;
+}
+.support{
+   color:#603F8B
+   
+}

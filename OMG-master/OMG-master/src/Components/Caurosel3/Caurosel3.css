@@ -1,0 +1,14 @@
+#caurosel3{
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    height:50%;
+}
+.carousel-control-prev-icon {
+   
+    margin-right: -700px;
+}
+.carousel-control-next-icon {
+   
+    margin-left: -700px;
+}

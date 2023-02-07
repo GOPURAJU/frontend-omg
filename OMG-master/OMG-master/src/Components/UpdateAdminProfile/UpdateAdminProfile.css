@@ -1,0 +1,59 @@
+.form-control{
+    width:60%;
+    background: rgba(255, 255, 255, 0.31);
+border: 1px solid rgba(21, 101, 192, 0.56);
+border-radius: 5px;
+}
+#btnClear{
+    background: radial-gradient(50% 50% at 50% 50%, rgba(240, 230, 135, 0.53) 8.09%, rgba(242, 78, 30, 0.2385) 20.6%, rgba(81, 213, 35, 0) 26.56%, rgba(81, 213, 35, 0.53) 89.05%);
+border: 1px solid rgba(81, 213, 35, 0.39);
+  border-radius: 100px;
+  
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  margin-left: 10rem;
+  margin-top: -50px;
+  }
+  #firstName{
+    width:60%
+  }
+  #lastName{
+    width:60%
+  }
+  #success{
+    font-family: 'Inter';
+font-style: italic;
+font-weight: 467;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+text-transform: capitalize;
+
+color:green;
+font-variation-settings: 'slnt' -10;
+margin-left:-20px;
+margin-bottom:100px;
+
+
+
+  }
+  #gif{
+   margin-left: 150px;
+   margin-top: -20px;
+  }
+  #error{
+    font-family: 'Inter';
+font-style: italic;
+font-weight: 467;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+text-transform: capitalize;
+
+color:red;
+font-variation-settings: 'slnt' -10;
+margin-top: -100px;
+margin-left:-100px
+  }

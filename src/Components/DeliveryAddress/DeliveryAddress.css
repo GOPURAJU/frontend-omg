@@ -1,0 +1,24 @@
+p .content{
+    box-sizing: border-box;
+
+position: absolute;
+width: 569px;
+height: 401px;
+left: 364px;
+top: 380px;
+
+background: #FFFFFF;
+border: 1px solid rgba(58, 50, 50, 0.97);
+}
+p.address{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 523px;
+height: 258px;
+left: 387px;
+top: 442px;
+
+border: 0.5px solid #000000;
+}

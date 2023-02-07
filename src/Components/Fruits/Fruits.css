@@ -1,0 +1,32 @@
+.category1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #FF4D00;
+}
+  
+.hr-line {
+    width: 50%;
+    position: relative;
+ margin-left:-40px;
+    border-bottom: 1px solid #000;
+  }
+  .Fruit{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+  }
+  .tableContainer{
+    background-color: #1E1F25;
+    border-radius: 20px;
+    height: 244px;
+    padding: 0 10px 10px 10px;
+    overflow: scroll;
+}

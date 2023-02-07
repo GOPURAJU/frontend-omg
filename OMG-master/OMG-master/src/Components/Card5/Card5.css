@@ -1,0 +1,36 @@
+#navbar{
+    background: linear-gradient(180deg, rgba(217, 217, 217, 0.51) 0%, rgba(186, 184, 174, 0) 100%);;
+}
+#button2:hover{
+    background: #000000;
+    border-radius: 25px;
+}
+/* .table th {
+    text-align: center;
+}
+
+.table {
+    margin: 0px auto;
+    border-radius: 5px;
+    width: 50%;
+    float: none;
+} */
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 400px;
+    overflow: auto;
+    }
+    .table-wrapper-scroll-y {
+    display: block;
+    }
+
+    .table {
+        border-radius: 5px;
+        width: 50%;
+        margin: 0px auto;
+        float: none;
+    }
+    
+ 
+   

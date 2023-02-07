@@ -1,0 +1,172 @@
+p.hero {
+
+    font-family: ui-monospace;
+    text-align: center !important;
+    font-size: 35px;
+}
+.card-text{
+    font-family: 'Be Vietnam';
+    font-weight: 600;
+
+
+text-align: center;
+
+
+}
+
+.btn btn-primary{
+    background: linear-gradient(137.64deg, #D9D9D9 47.99%, rgba(84, 84, 84, 0.52) 72.36%);
+}
+
+
+
+a.logout.nav-link {
+    padding-right: 37px;
+    
+}
+
+
+    button.s {
+        padding-top: 58px;
+    }
+   
+   .Addgrobut{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 50px;
+
+
+   }
+   
+  p.hero {
+  
+    padding-top: 15px;
+ 
+    width: 500px;
+    font-family: ui-monospace;
+    text-align: center !important;
+    font-size: 35px;
+}
+.profile{
+    position: absolute;
+
+    right: 8.33%;
+
+    height: 40px;
+    width:40px;
+   
+}
+
+img, svg {
+    vertical-align:0%;
+}
+.card-text{
+    text-align: center;
+}
+#image{
+    margin-top: 10px;
+   
+}
+
+.navbar-item{
+    position: sticky;
+   
+    font-family: 'Be Vietnam';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 51px;
+
+background: linear-gradient(180deg, rgba(17, 17, 17, 0.97) 28.75%, rgba(58, 50, 50, 0) 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+
+}
+.profile{
+    margin-top:2rem ;
+}
+.btn-primary {
+    color:0;
+    background-color:0;
+     border-color:0;
+}
+.super-colors {
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+  }
+
+.media-heading{
+    font-family: 'Be Vietnam';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 37px;
+letter-spacing: -0.025em;
+
+color: rgba(255, 77, 0, 0.9);
+
+}
+.media-heading1{
+font-family: 'Yusei Magic';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 51px;
+letter-spacing: 0.05em;
+
+color: chocolate;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#email{
+  
+        font-family: 'Be Vietnam';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+   
+    
+    color: #000000;
+  
+}
+.text{
+   
+
+height: 57px;
+
+
+font-family: 'Be Vietnam';
+font-style: italic;
+font-weight: 250;
+font-size: 33px;
+
+
+color: #111111;
+letter-spacing: 0.2px;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+
+    #order{
+        width: 40px;
+        margin-top: 0.5rem;
+    }
+    #product{
+        margin-top: -0.3rem;
+    }
+  /****/
+  button {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+    vertical-align: middle;
+    text-decoration: none;
+    font-size: inherit;
+    font-family: inherit;
+  }
+
+ 

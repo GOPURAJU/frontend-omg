@@ -1,0 +1,89 @@
+
+.App {
+    background-color: white;
+  }
+  #firstName{
+    width: 100%;
+  }
+  #lastName{
+
+    width: 100%;
+  }
+  #UserName{
+    width: 130%;
+  }
+  #password{
+    width: 100%;
+  }
+  #dateOfBirth{
+    width: 100%;
+  }
+  #phonenumber{
+    width: 100%;
+  }
+  .PhoneInputInput {
+    height: 40px;
+ 
+   flex:none;
+   
+ 
+   }
+   input[type=tel] {
+  border-radius:5px;
+    background: rgba(255, 255, 255, 0.31);
+    border: 1px solid rgba(21, 101, 192, 0.56);
+   }
+   input[type=tel]:focus{
+     outline: none; 
+     background:white;     /* Remove default outline and use border or box-shadow */
+     box-shadow: 0 0 0 3px rgba(21, 101, 192, 0.56); /* Full freedom. (works also with border-radius) */
+   }
+   
+  
+  .Auth-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .Auth-form {
+    width: 527px;
+    box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    /* border-radius: 8px; */
+    background-color: #0a6e4069;
+  }
+  
+  .Auth-form-content {
+    padding-left: 12%;
+    padding-right: 12%;
+  }
+  
+  .Auth-form-title {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 24px;
+    color: rgb(34, 34, 34);
+    font-weight: 800;
+  }
+  
+  label {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(34, 34, 34);
+  }
+  .btn-success {
+  
+    
+    padding: 6px 6px !important; 
+  
+}
+.imgrr {
+  margin-right: -174px;
+  margin-left: 0PX;
+  margin-bottom: -132px;
+  margin-top: -21px;
+}

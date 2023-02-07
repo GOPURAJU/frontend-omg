@@ -1,0 +1,140 @@
+p.hero {
+   
+    font-family: ui-monospace;
+    text-align: center !important;
+    font-size: 35px;
+}
+a:link { text-decoration: none; }
+
+.card{
+    background: #7F8C8D;
+}
+
+
+#grocery{
+    text-decoration: none !important;
+    color: black;
+
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+#INVENTORY{
+    text-decoration: none !important;
+    color: black;
+   
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+#button1:hover{
+    background: #114A8B;
+    border-radius: 25px;
+}
+#account:hover{
+    color: #FFFFFF;
+}
+
+.navbar{
+
+    min-height: 83px;
+
+    background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%,rgb(245,245,245) 57.5%, rgb(245,245,245)66%);
+    
+    
+    
+    
+
+
+}
+
+a.logout.nav-link {
+    padding-right: 37px;
+    
+}
+
+
+    button.s {
+        padding-top: 58px;
+    }
+   
+   .Addgrobut{
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 50px;
+
+
+   }
+  
+  .modal-content {
+    height: 760px;
+    width:126% !important;
+    margin-left:-120px
+  }
+
+  .my-custom-scrollbar {
+    position: relative;
+    height: 700px;
+    overflow: auto;
+    }
+    .table-wrapper-scroll-y {
+    display: block;
+    }
+    .subsection{
+        min-height: 0px;
+    }
+    .my-custom-scrollbar {
+
+        height: 320px;
+    }
+    .tableFixHead          { overflow: auto;     height: 500px !important;}
+.tableFixHead thead th { position: sticky;}
+
+th, td { padding: 8px 16px; }
+  p.hero {
+   
+    padding-top: 15px;
+ 
+    width: 500px;
+    font-family: ui-monospace;
+    text-align: center !important;
+    font-size: 35px;
+}
+.profile{
+    position: absolute;
+
+    right: 8.33%;
+
+    height: 40px;
+    width:40px;
+   
+}
+
+img, svg {
+    vertical-align:0%;
+}
+.card-text{
+    text-align: center;
+}
+#image{
+    margin-top: 10px;
+   
+}
+
+
+.text{
+   
+
+height: 57px;
+
+
+font-family: 'Be Vietnam';
+font-style: italic;
+font-weight: 250;
+font-size: 34px;
+
+
+color: #111111;
+letter-spacing: 0.2px;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}

@@ -1,0 +1,27 @@
+.card{
+    background-color: white;
+
+}
+.card-img-top {
+    border-radius: 30px;
+   
+}
+.image{
+
+border-radius: 50%;
+}
+
+    #circle {
+        display: flex;
+        width: 100px;
+        height: 100px;
+        background-color: green;
+        border-radius: 50%;
+      }
+      .title{
+        text-align: center;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 40px;
+      }
+  

@@ -1,0 +1,69 @@
+#form  {
+    /* position: absolute; */
+    width: 568px;
+    /* height: 853px; */
+    left: 84px;
+    top: 376px;
+    background: #71D88E;
+    border-radius: 10px;
+    height: 680px;
+}
+#w3review{
+    width:100%;
+    background: #FFFFFF;
+border: 1px solid #292F33;
+border-radius: 10px;
+}
+#quantity{
+    width:100%;
+    height:3rem;
+    background: #FFFFFF;
+border: 1px solid #292F33;
+border-radius: 10px;
+}
+/* #submit{
+    background-color: linear-gradient(89.8deg, #376409 0.16%, #B1CC33 99.83%);
+border: 1px solid rgba(0, 0, 0, 0.23);
+border-radius: 50px;
+} */
+#productName{
+   width:100%;
+   background: #FFFFFF;
+border: 1px solid #292F33;
+border-radius: 10px; 
+height:3rem;
+}
+#submit{
+    box-sizing: border-box;
+
+    /* position: absolute; */
+    
+    
+    background: linear-gradient(89.8deg, #376409 0.16%, #B1CC33 99.83%);
+    border: 1px solid rgba(0, 0, 0, 0.23);
+    border-radius: 50px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 24px;
+
+
+color: #F5F5F5;
+
+}
+#name{
+    
+font-family: 'monospace';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: -0.025em;
+
+color: #000000;
+
+}
+label{
+    background:#000000 ;
+}

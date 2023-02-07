@@ -1,0 +1,14 @@
+.maincontent {
+    PADDING-LEFT: 195PX;
+}
+input#lname {
+    /* box-sizing: border-box; */
+    /* position: absolute; */
+    width: 951px;
+    height: 74px;
+    /* left: 412px; */
+    /* top: 345px; */
+    /* background: #FFFFFF; */
+    border: 1px solid #000000;
+    border-radius: 20px;
+}
